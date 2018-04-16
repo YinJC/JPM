@@ -402,6 +402,7 @@
 \def\textShiDian{\makebox[\ccwd]{砷\kern-.6em\fboxsep\z@\colorbox{white}{\kern-.1em\scalebox{.7}[1]{店}}}}
 \def\textShiFou {\makebox[\ccwd]{砷\kern-.6em\fboxsep\z@\colorbox{white}{\kern-.1em\scalebox{.7}[1]{否}}}}
 \def\textHuoKua {\makebox[\ccwd]{灿\kern-.6em\fboxsep\z@\colorbox{white}{\kern-.1em\scalebox{.7}[1]{夸}}}}
+\def\textMuShou {\makebox[\ccwd]{\scalebox{.5}[1]{木}\kern-.2em\scalebox{.7}[1]{寿}}}
 
 \endinput
 %%
